@@ -7,4 +7,4 @@ Conteúdo
 
 2- Intermediate HTML - Tabelas, Formulários e suas validações.
 
-3- CSS Basics
+3- CSS Basics - Exercicio com selectors
