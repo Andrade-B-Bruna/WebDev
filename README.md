@@ -8,3 +8,5 @@ Conteúdo
 2- Intermediate HTML - Tabelas, Formulários e suas validações.
 
 3- CSS Basics - Exercicio com selectors
+
+4- Intermediate CSS - Jogo da velha estilizado, sem funcionalidade
