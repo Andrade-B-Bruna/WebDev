@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: rgb(1, 115, 153);
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    background: lightpink;
+   
+}
+
+.vertical{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.center{
+    border: 2px solid black;
+}
+
+.horizontal{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
